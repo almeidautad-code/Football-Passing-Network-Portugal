@@ -5,7 +5,8 @@ This project visualizes the **passing network** of the Portugal national team us
 
 > 📄 [**View Full Analysis Report (PDF)**](https://github.com/almeidautad-code/Football-Passing-Network-Portugal/blob/624bafae607b51e400f25927b151e5ca2c13c245/Network%20github.pdf)
 
-<img width="900" height="600" alt="Network Portugal" src="https://github.com/user-attachments/assets/adaf8c1d-9c41-4fd6-a200-1a3da6722b55" />
+<img width="2492" height="2001" alt="Network Portugal" src="https://github.com/user-attachments/assets/6a42e1b0-43a9-4690-83d5-04e1a464ed2e" />
+
 
 ---
 
